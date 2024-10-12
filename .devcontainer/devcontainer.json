@@ -14,6 +14,11 @@
       "openFiles": [
         "src/App.jsx"
       ]
+    },
+    "vscode": {
+      "extensions": [
+        "your.extension.id" 
+      ]
     }
   },
   "portsAttributes": {
@@ -22,5 +27,8 @@
       "onAutoForward": "openPreview"
     }
   },
-  "forwardPorts": [3000]
+  "forwardPorts": [3000],
+  "remoteEnv": {
+    "REPO_ID": "871482895"
+  }
 }
