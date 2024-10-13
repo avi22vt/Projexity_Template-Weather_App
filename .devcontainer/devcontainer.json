@@ -7,8 +7,7 @@
   "updateContentCommand": "npm install",
   "postCreateCommand": "",
   "postAttachCommand": {
-    "server": "npm start",
-    "vscode" : "workbench.view.extension.chatgpt-ai.chatView"
+    "server": "npm start"
   },
   "customizations": {
     "codespaces": {
@@ -19,7 +18,13 @@
     "vscode": {
       "extensions": [
         "AvinashMaheshwari.projexity-ai" 
-      ]
+      ],
+      "settings": {
+        "workbench.activityBar.visible": true,
+        "workbench.sideBar.location": "left",
+        "workbench.startupEditor": "none",
+        "workbench.view.extension.AvinashMaheshwari-projexity-ai": true
+      }
     }
   },
   "portsAttributes": {
