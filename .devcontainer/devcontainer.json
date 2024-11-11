@@ -21,7 +21,7 @@
         "philsinatra.macos-dark-mode-theme"
       ],
       "settings": {
-        "workbench.colorTheme": "Dark+"
+        "workbench.colorTheme": "Dark"
       }
     }
   },
