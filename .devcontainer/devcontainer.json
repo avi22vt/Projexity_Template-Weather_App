@@ -17,7 +17,8 @@
     },
     "vscode": {
       "extensions": [
-        "AvinashMaheshwari.projexity-ai" 
+        "AvinashMaheshwari.projexity-ai",
+        "philsinatra.macos-dark-mode-theme"
       ],
       "settings": {
         "workbench.colorTheme": "Dark+"
