@@ -12,7 +12,8 @@
   "customizations": {
     "codespaces": {
       "openFiles": [
-        "src/App.jsx"
+        "src/App.jsx",
+        "src/App.css"
       ]
     },
     "vscode": {
